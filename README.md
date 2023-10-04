@@ -1,6 +1,10 @@
 # Simple Card Example - 01
 
-This repository contains a simple example of a card component created using HTML and CSS. This README provides an overview of the project and instructions on how to use it.
+Welcome to my project! You can check it out on [Here](https://card-example-01.vercel.app).
+
+## Description
+
+This repository contains a __simple example of a card__ component created using HTML and CSS. This README provides an overview of the project and instructions on **how to use it**.
 
 ## Table of Contents
 
