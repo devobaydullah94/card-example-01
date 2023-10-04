@@ -33,7 +33,7 @@ To get started with this simple card example, follow these steps:
 2. **Navigate to the Directory**: Change your working directory to the project folder:
 
    ```bash
-   cd simple-card-example-01
+   cd card-example-01
    ```
 
 3. **Open the Files**: You can use any code editor of your choice (e.g., Visual Studio Code, Sublime Text, or Notepad++) to open and explore the HTML and CSS files in the project.
