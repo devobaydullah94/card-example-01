@@ -55,3 +55,4 @@ To use the simple card example in your project, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code in this repository for both personal and commercial projects. However, please provide appropriate attribution by including a reference to this repository if you choose to use it in your projects.
+
