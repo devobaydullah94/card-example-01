@@ -27,15 +27,13 @@ To get started with this simple card example, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/simple-card-example.git
+   git clone https://github.com/devobaydullah94/card-example-01.git
    ```
-
-   Replace `your-username` with your GitHub username.
 
 2. **Navigate to the Directory**: Change your working directory to the project folder:
 
    ```bash
-   cd simple-card-example
+   cd simple-card-example-01
    ```
 
 3. **Open the Files**: You can use any code editor of your choice (e.g., Visual Studio Code, Sublime Text, or Notepad++) to open and explore the HTML and CSS files in the project.
