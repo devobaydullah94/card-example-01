@@ -29,9 +29,9 @@ In web development, card components are commonly used to display information in 
 ![Screenshot (1)](https://github.com/devobaydullah94/card-example-01/assets/142870705/beb15fbf-a899-47d9-bed5-3a762da7efa8)
 ![Screenshot (2)](https://github.com/devobaydullah94/card-example-01/assets/142870705/9241fe5b-2487-46ed-958d-7daf0bb223ac)
 
-![Screenshot (1)](https://i.ibb.co/5vg3tTW/1.png)
+![1](https://github.com/devobaydullah94/card-example-01/assets/142870705/a4a129a2-8522-44d6-9934-84b3e4cf4324)
 
-![Screenshot (1)](https://i.ibb.co/59JMdRZ/2.png)
+![2](https://github.com/devobaydullah94/card-example-01/assets/142870705/00cb95e8-2361-4cc8-b518-aa5f6d113b5e)
 
 
 ## Getting Started
